@@ -45,6 +45,7 @@ With the described process we were able to create an angaging, useful and effici
 3. As a user I want to pass through an authentication process, so that I can feel confident that the site is secure and keep the record of my operations.
 
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
+https://github.com/BaharMahmud/PlantData
 https://github.com/gpayabyab/Plant-Shelf-Project
 
 HEROKU
